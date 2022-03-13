@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person Id="1">
+        <FirstName>Benjamin</FirstName>
+        <LastName>Finkel</LastName>
+        <Email>ben.finkel@gmail.com</Email>
+     <person Id="2">
+        <FirstName>Jane</FirstName>
+        <LastName>Doe</LastName>
+        <Email>jane.doe@gmail.com</Email>    
+    <person Id="3">
+        <FirstName>Pat</FirstName>
+        <LastName>Smith</LastName>
+        <Email>pat.smith@gmail.com</Email>
+    </person>
+</people> 
