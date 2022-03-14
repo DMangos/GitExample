@@ -1,5 +1,5 @@
 #from asyncio import streams
-import xml.etree.ElementTree as ET
+from lxml import etree as ET
 #get the XML file data
 stream = open('sample.xml','r')
 
